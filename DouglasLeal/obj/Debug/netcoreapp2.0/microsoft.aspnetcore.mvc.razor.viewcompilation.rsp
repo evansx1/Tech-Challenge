@@ -1,0 +1,12 @@
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=Douglas Leal
+--content-root=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal
+--file=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\Views\Home\About.cshtml
+--file=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\Views\Home\Contact.cshtml
+--file=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\Views\Home\Index.cshtml
+--file=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\Views\Shared\Error.cshtml
+--file=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\Views\Shared\_Layout.cshtml
+--file=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\Views\_ViewImports.cshtml
+--file=C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\Views\_ViewStart.cshtml

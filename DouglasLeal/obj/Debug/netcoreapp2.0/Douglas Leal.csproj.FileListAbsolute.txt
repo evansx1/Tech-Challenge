@@ -1,0 +1,33 @@
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.deps.json
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.runtimeconfig.json
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.runtimeconfig.dev.json
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.dll
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.pdb
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.csprojAssemblyReference.cache
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.AssemblyInfoInputs.cache
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.AssemblyInfo.cs
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.dll
+C:\Users\Douglas Leal\source\repos\Douglas Leal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.pdb
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.deps.json
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.runtimeconfig.json
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.runtimeconfig.dev.json
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.dll
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.pdb
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.csprojAssemblyReference.cache
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.AssemblyInfoInputs.cache
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.AssemblyInfo.cs
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.dll
+C:\Users\Douglas Leal\source\repos\DouglasLeal\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.pdb
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.deps.json
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.runtimeconfig.json
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.runtimeconfig.dev.json
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.dll
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\bin\Debug\netcoreapp2.0\Douglas Leal.pdb
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.csprojAssemblyReference.cache
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.AssemblyInfoInputs.cache
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.AssemblyInfo.cs
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.dll
+C:\Users\Douglas Leal\source\repos\TechChallenge\Douglas Leal\obj\Debug\netcoreapp2.0\Douglas Leal.pdb
